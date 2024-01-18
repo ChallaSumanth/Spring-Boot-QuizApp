@@ -16,6 +16,6 @@ Spring Security: For securing API endpoints.
 Install PostgreSQL and create a new database.
 Update the application.properties file with your database configuration.
 
-spring.datasource.url=jdbc:postgresql://localhost:5432/your-database
-spring.datasource.username=your-username
-spring.datasource.password=your-password
+spring.datasource.url=jdbc:postgresql://localhost:5432/your-database.
+spring.datasource.username=your-username.
+spring.datasource.password=your-password.
